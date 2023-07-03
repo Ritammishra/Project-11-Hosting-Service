@@ -12,7 +12,7 @@
 ![image](./Thumbnails/Thumbnail-5.png)
 ![image](./Thumbnails/Thumbnail-6.png)
 ![image](./Thumbnails/Thumbnail-7.png)
-
+[Live Preview](https://project-11-hosting-service.netlify.app/)
 <hr>
 
 ## Features
